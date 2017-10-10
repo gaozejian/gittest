@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSString * str = @"dddd";
+    //zejian2  第一次
     // Do any additional setup after loading the view from its nib.
 }
 
